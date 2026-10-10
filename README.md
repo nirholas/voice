@@ -357,3 +357,30 @@ for (const w of words) console.log(`${(w.startMs / 1000).toFixed(2)}s  ${w.word}
 ## Security and contributing
 
 See [SECURITY.md](SECURITY.md), [CONTRIBUTING.md](CONTRIBUTING.md) and [AGENTS.md](AGENTS.md) (for AI agents). Part of [three.ws](https://three.ws).
+
+<!-- three.ws:growth -->
+## Support the project
+
+If voice saves you time, **[star it on GitHub](https://github.com/nirholas/voice)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=voice%3A%20Speech%20for%20avatars%3A%20ASR%20(speech%E2%86%92text)%2C%20TTS%20(text%E2%86%92speech)%2C%20and%20Audio2Face-3D%20lipsync%20visemes%20in%20one&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fvoice) · [Share on Bluesky](https://bsky.app/intent/compose?text=voice%3A%20Speech%20for%20avatars%3A%20ASR%20(speech%E2%86%92text)%2C%20TTS%20(text%E2%86%92speech)%2C%20and%20Audio2Face-3D%20lipsync%20visemes%20in%20one%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fvoice) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fvoice) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fvoice&t=voice%3A%20Speech%20for%20avatars%3A%20ASR%20(speech%E2%86%92text)%2C%20TTS%20(text%E2%86%92speech)%2C%20and%20Audio2Face-3D%20lipsync%20visemes%20in%20one) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fvoice&title=voice%3A%20Speech%20for%20avatars%3A%20ASR%20(speech%E2%86%92text)%2C%20TTS%20(text%E2%86%92speech)%2C%20and%20Audio2Face-3D%20lipsync%20visemes%20in%20one)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/voice` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/voice/issues) or [start a discussion](https://github.com/nirholas/voice/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/voice)](https://github.com/nirholas/voice/graphs/contributors)
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/voice&type=Date)](https://www.star-history.com/#nirholas/voice&Date)
+
+<!-- /three.ws:growth -->
