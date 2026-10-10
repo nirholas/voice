@@ -1,0 +1,13 @@
+# @three-ws/voice
+
+> Speech for avatars, ASR (speech→text), TTS (text→speech), and Audio2Face-3D lipsync visemes in one import. The voice layer for three.ws avatars.
+
+## Docs
+- [README](https://github.com/nirholas/voice/blob/main/README.md): install, usage and API
+- [AGENTS.md](https://github.com/nirholas/voice/blob/main/AGENTS.md): how an AI agent should use and modify this repo
+- [Site](https://nirholas.github.io/voice/): rendered docs
+- [npm](https://www.npmjs.com/package/@three-ws/voice)
+
+## Optional
+- [three.ws](https://three.ws): the platform this package belongs to
+- [llms-full.txt](https://three.ws/llms-full.txt): platform-wide index
