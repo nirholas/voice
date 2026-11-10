@@ -2,9 +2,18 @@
   "name": "three-ws-voice",
   "version": "0.1.2",
   "description": "Speech in, speech out and lipsync for avatars: transcribe audio, synthesize speech and generate ARKit visemes with @three-ws/voice.",
-  "author": {"name": "nirholas"},
+  "author": {
+    "name": "nirholas"
+  },
   "repository": "https://github.com/nirholas/voice",
+  "homepage": "https://nirholas.github.io/voice/",
   "license": "Apache-2.0",
-  "keywords": ["asr", "tts", "lipsync", "audio2face", "avatar", "sdk"],
-  "homepage": "https://nirholas.github.io/voice/"
+  "keywords": [
+    "asr",
+    "tts",
+    "lipsync",
+    "audio2face",
+    "avatar",
+    "sdk"
+  ]
 }
