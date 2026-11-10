@@ -1,0 +1,13 @@
+{
+  "name": "three-ws-voice",
+  "owner": {"name": "nirholas"},
+  "description": "The voice layer for three.ws avatars.",
+  "plugins": [
+    {
+      "name": "three-ws-voice",
+      "source": "./",
+      "description": "Transcribe speech, speak text and generate ARKit lipsync tracks through the public three.ws voice endpoints.",
+      "tags": ["asr", "tts", "lipsync"]
+    }
+  ]
+}
